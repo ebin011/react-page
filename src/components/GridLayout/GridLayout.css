@@ -1,0 +1,14 @@
+
+.grid{
+   overflow:hidden;
+
+
+}
+.tile-viewport{
+  max-width:100% !important;
+  height: auto !important;
+  margin-left: 0 !important;
+  
+
+}
+img{vertical-align:middle !important;cursor: default !important; }

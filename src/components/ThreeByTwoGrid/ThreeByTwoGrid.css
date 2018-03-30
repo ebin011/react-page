@@ -1,0 +1,9 @@
+
+@media screen and (min-width: 1050px)  {
+.grid_setting{
+  width: 100% !important;
+}
+}
+/*.grid_setting{
+  width: 90% !important;
+}*/

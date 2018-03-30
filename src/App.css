@@ -1,0 +1,12 @@
+.App {
+  width: 100%;
+  font-family: "Times New Roman", Times, serif;
+}
+.heading{
+  color:#424949;
+}
+.description{
+  font-style: normal;
+  font-size: 16px;
+  color:#707B7C;
+}

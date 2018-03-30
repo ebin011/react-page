@@ -1,0 +1,38 @@
+.footer{
+  background-color: #424949;
+  color: #FDFEFE;
+  padding: 5%;
+}
+.company_logo_footer{
+margin-top: auto !important;
+padding-right: 0 !important;
+}
+.footer_logo{
+  /*max-width: 80px;
+  max-height: 80px;*/
+}
+.company_name_footer{
+  /*margin-top: auto !important;*/
+  position: absolute;
+  top:40%;
+  padding-left: 5px !important;
+}
+.responsive-image{max-width:100%;height:auto}img{vertical-align:middle}
+.footer_btn{
+  width: 100% !important;
+  background-color: #424949 !important;
+  border-color: #FDFEFE !important;
+
+}
+.footer_des{
+  margin: 0;
+  padding: 1px;
+  margin-bottom: 4px;
+  font-size: 13px;
+  color: #95A5A6;
+}
+.footer_icons{
+    margin-top: 60%;
+}
+.footer_icon{
+}
